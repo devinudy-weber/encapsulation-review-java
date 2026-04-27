@@ -25,7 +25,7 @@ public class main {
         newBuilding.setName("Tech Store");
         newBuilding.setAddress("123 Main St");
 
-        System.out.printf("Building name: %s\nAddress: %s\n", newBuilding.getName(), newBuilding.getAddress());
+        System.out.printf("Building name: %s \nAddress: %s\n", newBuilding.getName(), newBuilding.getAddress());
 
     }
 }
